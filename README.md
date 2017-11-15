@@ -1,4 +1,7 @@
-# Video_Sparse_Coding
+# Video Copy Detection motivated by Image Classification using Sparse Coding
+
+Project Report: http://www-personal.umich.edu/~aniketde/processed_md/Video_Sparse%20Coding.pdf 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Image Classification using Non-negative Sparse Coding, Low-Rank and Sparse Decomposition
