@@ -1,7 +1,7 @@
 # Video_Sparse_Coding
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Image Classification using Non-negative Sparse Coding,
-% Low-Rank and Sparse Decomposition
+
+% Image Classification using Non-negative Sparse Coding, Low-Rank and Sparse Decomposition
 
 % Written by Aniket Deshmukh and Naveen Murthy
 % Course Project for EECS 556
@@ -25,10 +25,7 @@
 
 %Step 7: Run main_556.m
 
-% Original Reference: Zhang, Chunjie, Jing Liu, Qi Tian, Changsheng Xu,
-% Hanqing Lu, and Songde Ma. "Image classification by non-negative sparse coding,
-% low-rank and sparse decomposition." In Computer Vision and Pattern Recognition (CVPR),
-% 2011 IEEE Conference on, pp. 1673-1680. IEEE, 2011.
+% Original Reference: Zhang, Chunjie, Jing Liu, Qi Tian, Changsheng Xu, Hanqing Lu, and Songde Ma. "Image classification by non-negative sparse coding, low-rank and sparse decomposition." In Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on, pp. 1673-1680. IEEE, 2011.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
