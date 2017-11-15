@@ -8,15 +8,21 @@
 
 
 %Step 1: Download Caltech101 images and put it in folder called image\test. 
+
 %Step 2: Download and install PROPACK
+
 %Step 3: Download large_scale_svm package by Kai Yu, Aug. 2008
+
 %Step 4: Download and put SIFT descriptor script in sift folder. 
+
 %Step 5: Dowload sparse coding program from
 %https://github.com/igkiou/sparse_linear_model/tree/master/sparse_coding
 %and put it in sparse_coding folder
+
 %Step 6: Download RPCA from
 %https://github.com/posenhuang/singingvoiceseparationrpca/tree/master/inexact_alm_rpca
 %and put it in folder inexact_alm_rpca.
+
 %Step 7: Run main_556.m
 
 % Original Reference: Zhang, Chunjie, Jing Liu, Qi Tian, Changsheng Xu,
